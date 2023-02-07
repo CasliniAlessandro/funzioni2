@@ -34,7 +34,7 @@ namespace menù
                 sceltamenù = int.Parse(Console.ReadLine());
                   
 
-                switch (sceltamenù)
+                switch (sceltamenù) 
                 {
                     case 1:
                         Console.WriteLine("inserisci animale: ");
