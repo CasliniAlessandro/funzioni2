@@ -172,9 +172,19 @@ namespace menù
             }
 
         }
-        static void funzione7()
+        static void VisualizzaAnimali(string[] a)
         {
-
+            for(int i=0;i<99;i++)
+            {
+                if (a[i] == "")
+                {
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine(a[i]);
+                }
+            }
         }
         static void funzione8()
         {
