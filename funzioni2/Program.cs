@@ -32,7 +32,7 @@ namespace menù
                 Console.WriteLine("9- CANCELLA TUTTI I NOMI UGUALI");
 
                 sceltamenù = int.Parse(Console.ReadLine());
-
+                  
 
                 switch (sceltamenù)
                 {
