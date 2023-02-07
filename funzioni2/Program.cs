@@ -35,7 +35,7 @@ namespace menù
                   
 
                 switch (sceltamenù) 
-                {
+                { 
                     case 1:
                         Console.WriteLine("inserisci animale: ");
                         animale = Console.ReadLine();
